@@ -1,4 +1,5 @@
-[
+{
+    "data": [
     {
         "idDoAnuncio": "0e5e5e5b-5781-41c4-a8d4-007cb503ba2f",
         "titulo": "Vendo livro",
@@ -80,3 +81,4 @@
         "anoEscolar": "1º ano E. Fundamental"
     }
 ]
+}
